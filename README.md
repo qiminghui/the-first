@@ -6,5 +6,7 @@ $pipenv flask
 $pipenv flask_moment
 $pipenv flask_bootstrap
 $pipenv flask_moment
+$pipenv shell
+$flask run
 $flask initdb('初始化数据库，建立一个表')
 $flask forge ('创建虚拟数据')
